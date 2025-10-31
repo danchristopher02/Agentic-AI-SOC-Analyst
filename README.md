@@ -1,12 +1,12 @@
 # 🤖 Agentic AI SOC Analyst
 
-This project demonstrates an Agentic AI Security Operations Center (SOC) Analyst, designed to:
+This project shows a Security Operations Center (SOC) AI Agent, designed to:
 
 - Ingest and analyze logs
 
 - Identify and score potential threats
 
-- Automatically Isolate affected hosts
+- Automatically isolate affected hosts
 
 ## Things to Know Beforehand
 
